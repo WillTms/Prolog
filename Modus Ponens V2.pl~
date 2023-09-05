@@ -1,0 +1,2 @@
+estuda(joao).
+passa_prova(X) :- estuda(X).
